@@ -42,18 +42,16 @@ I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for
   margin-bottom: 28px;
 ">
 
-  <h2>📄 Resume</h2>
+<h2>📄 Resume</h2>
 
   <p style="max-width:600px;">
-    Data Analyst Enthusiast with hands-on experience in data analysis,
-    machine learning, NLP, and AI-driven systems.
+    Data Analyst Enthusiast with hands-on experience in Data Analytics,
+    Machine Learning, NLP, and AI-driven systems.
   </p>
 
   <a href="https://github.com/varshasree01/varshasree01/raw/main/Varshasree_Gattu_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe" />
   </a>
-
-</div>
 <!-- ================= RESUME ================= -->
 
 ---
