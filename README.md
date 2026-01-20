@@ -42,7 +42,7 @@ I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for
   margin-bottom: 28px;
 ">
 
-<h2>📄 Resume</h2>
+<h2>📄 Resume[https://drive.google.com/file/d/1-PUxtUJ-W-1PB918YrvDltJJEfp5TUk_/view?usp=sharing]</h2>
 
   <p style="max-width:600px;">
     Data Analyst Enthusiast with hands-on experience in Data Analytics,
