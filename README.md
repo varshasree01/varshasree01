@@ -54,9 +54,11 @@ I’m passionate about turning data into impactful solutions and building system
 
 <h2>📄 Resume</h2>
 
-  <p style="max-width:600px;">
-    Aspiring Data Scientist and AI Enthusiast with hands-on experience in
-    Machine Learning, Data Analytics, NLP, Generative AI, and intelligent systems.
+  <p style="max-width:650px;">
+    Aspiring Data Engineer and AI Developer with expertise in Python,
+    Machine Learning, NLP, Deep Learning, and Full-Stack Development.
+    Experienced in building intelligent AI-powered applications,
+    scalable data-driven systems, and real-world ML solutions.
   </p>
 
   <a href="https://github.com/varshasree01/varshasree01/raw/main/Varshasree_Gattu_Resume.pdf" target="_blank">
