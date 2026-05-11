@@ -7,7 +7,7 @@
 
   <h2>👋 Hey, I’m Varshasree Gattu</h2>
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Data+Analyst+Enthusiast+%7C+AI+%26+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%7C+AI+%26+ML+Enthusiast;Building+AI-Powered+Solutions+%7C+Data+Driven+Thinker;Exploring+Data+Science+%7C+Machine+Learning+%7C+GenAI" />
 
 </div>
 
@@ -18,18 +18,28 @@
 ---
 
 ## 🚀 What I Do
-- 📊 Transform raw data into actionable insights  
-- 🤖 Build intelligent systems using AI & ML  
-- 📈 Design dashboards that communicate clearly  
-- 🧠 Develop AI-driven systems for real-world decision support  
+- 📊 Analyze and interpret data to uncover meaningful insights  
+- 🤖 Build AI & Machine Learning solutions for real-world problems  
+- 🧠 Explore Deep Learning, NLP, and Generative AI applications  
+- 📈 Create interactive dashboards and visual analytics systems  
+- 💡 Develop intelligent systems with automation and predictive capabilities  
   → **Autonomous Campus Navigator** (Final Year Project)  
-- 🌱 Learn continuously, build intentionally  
+- 🌱 Continuously learning and improving through hands-on projects  
 
 ---
 
 ## 👩‍💻 About Me
-I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for  
-**Data Analytics, Visualization, and Intelligent Systems**.
+I’m a **Computer Science undergraduate specializing in AI & ML** with a strong interest in  
+**Data Science, Artificial Intelligence, Machine Learning, and Analytics**.
+
+I enjoy working on projects involving:
+- 📌 Predictive Analytics  
+- 📌 Machine Learning Models  
+- 📌 Data Visualization  
+- 📌 NLP & Generative AI  
+- 📌 Intelligent Decision Support Systems  
+
+I’m passionate about turning data into impactful solutions and building systems that solve real-world challenges.
 
 ---
 
@@ -45,13 +55,15 @@ I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for
 <h2>📄 Resume</h2>
 
   <p style="max-width:600px;">
-    Data Analyst Enthusiast with hands-on experience in Data Analytics,
-    Machine Learning, NLP, and AI-driven systems.
+    Aspiring Data Scientist and AI Enthusiast with hands-on experience in
+    Machine Learning, Data Analytics, NLP, Generative AI, and intelligent systems.
   </p>
 
   <a href="https://github.com/varshasree01/varshasree01/raw/main/Varshasree_Gattu_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe" />
   </a>
+
+</div>
 <!-- ================= RESUME ================= -->
 
 ---
@@ -59,13 +71,15 @@ I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for
 ## 🛠️ Languages & Tools I’ve Worked With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,flask,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,flask,react,tensorflow,pytorch,mysql&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-1f6f43?logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-f2c811?logo=powerbi&logoColor=000"/>
   <img src="https://img.shields.io/badge/Tableau-e97627?logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
 </p>
 
 ---
@@ -85,5 +99,5 @@ I’m a **Computer Science undergraduate (AI & ML)** with a strong passion for
 </p>
 
 <p align="center">
-  <i>Learning deeply • Building steadily • Growing every day 🚀</i>
+  <i>Learning AI • Building with Data • Growing through Innovation 🚀</i>
 </p>
