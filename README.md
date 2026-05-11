@@ -61,7 +61,7 @@ I’m passionate about turning data into impactful solutions and building system
     scalable data-driven systems, and real-world ML solutions.
   </p>
 
-  <a href="https://github.com/varshasree01/varshasree01/raw/main/Varshasree_Gattu_Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/varsha%20latest%20resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe" />
   </a>
 
