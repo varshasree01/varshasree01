@@ -95,7 +95,7 @@ I’m passionate about turning data into impactful solutions and building system
   <a href="https://varshasreegattu.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-24292f?logo=githubpages&logoColor=white"/>
   </a>
-  <a href="mailto:gattuvarshasree@gmail.com">
+  <a href="mailto:varshasreegattu2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?logo=gmail&logoColor=white"/>
   </a>
 </p>
