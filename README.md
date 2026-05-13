@@ -23,7 +23,7 @@
 - 🧠 Explore Deep Learning, NLP, and Generative AI applications  
 - 📈 Create interactive dashboards and visual analytics systems  
 - 💡 Develop intelligent systems with automation and predictive capabilities  
-  → **Autonomous Campus Navigator** (Final Year Project)  
+  → **Campus Navigation System* (Final Year Project)  
 - 🌱 Continuously learning and improving through hands-on projects  
 
 ---
