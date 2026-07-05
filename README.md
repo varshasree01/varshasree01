@@ -61,7 +61,7 @@ I’m passionate about turning data into impactful solutions and building system
 
 </p>
 
-<a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/Varsha_Sree_Gattu_Resume.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/varsha%20sree%20gattu.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 </a>
 
