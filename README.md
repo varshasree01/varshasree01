@@ -44,26 +44,21 @@ I’m passionate about turning data into impactful solutions and building system
 ---
 
 <!-- ================= RESUME ================= -->
-<div align="center" style="
-  background: linear-gradient(180deg, #0e1621, #0b0f14);
-  padding: 26px;
-  border-radius: 16px;
-  margin-top: 28px;
-  margin-bottom: 28px;
-">
+<div align="center">
 
-<h2>📄 Resume</h2>
+## 📄 Resume
 
-  <p style="max-width:650px;">
-    Aspiring Data Engineer and AI Developer with expertise in Python,
-    Machine Learning, NLP, Deep Learning, and Full-Stack Development.
-    Experienced in building intelligent AI-powered applications,
-    scalable data-driven systems, and real-world ML solutions.
-  </p>
+<p align="center" width="700">
+🎓 <b>B.Tech in Computer Science (AI & ML)</b> at Malla Reddy University (CGPA: <b>8.60</b>)<br><br>
 
-  <a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/varsha%20latest%20resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobe" />
-  </a>
+💻 Passionate <b>Software Engineer</b>, <b>AI/ML Developer</b>, and <b>Data Engineer</b> with hands-on experience in <b>Python, Java, SQL, React.js, Flask, Machine Learning, NLP, Data Analytics,</b> and <b>Power BI</b>.
+
+🚀 Experienced in developing intelligent AI applications including an <b>Agentic AI Campus Navigation System</b>, <b>Image Caption Generator</b>, and <b>Automatic Headline Generator</b>. Always eager to build scalable, impactful, and real-world software solutions.
+</p>
+
+<a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/varsha%20latest%20resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
 
 </div>
 <!-- ================= RESUME ================= -->
