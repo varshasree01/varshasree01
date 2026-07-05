@@ -48,12 +48,17 @@ I’m passionate about turning data into impactful solutions and building system
 
 ## 📄 Resume
 
-<p align="center" width="700">
-🎓 <b>B.Tech in Computer Science (AI & ML)</b> at Malla Reddy University (CGPA: <b>8.60</b>)<br><br>
+<p align="center" width="750">
 
-💻 Passionate <b>Software Engineer</b>, <b>AI/ML Developer</b>, and <b>Data Engineer</b> with hands-on experience in <b>Python, Java, SQL, React.js, Flask, Machine Learning, NLP, Data Analytics,</b> and <b>Power BI</b>.
+🎓 <b>B.Tech in Computer Science (Artificial Intelligence & Machine Learning)</b><br>
+<b>Malla Reddy University, Hyderabad</b> | <b>CGPA: 8.60</b>
 
-🚀 Experienced in developing intelligent AI applications including an <b>Agentic AI Campus Navigation System</b>, <b>Image Caption Generator</b>, and <b>Automatic Headline Generator</b>. Always eager to build scalable, impactful, and real-world software solutions.
+<br><br>
+
+💻 Aspiring <b>Software Engineer</b>, <b>AI/ML Developer</b>, and <b>Data Science Enthusiast</b> with hands-on experience in <b>Python, Java, SQL, Machine Learning, NLP, React.js, Flask, Power BI,</b> and <b>Data Analytics</b>.
+
+🚀 Passionate about developing AI-powered applications and solving real-world problems through intelligent software solutions. Built projects including an <b>Agentic AI Campus Navigation System</b>, <b>Image Caption Generator</b>, and <b>Automatic Headline Generator</b> using modern AI and full-stack technologies.
+
 </p>
 
 <a href="https://raw.githubusercontent.com/varshasree01/varshasree01/main/varsha%20latest%20resume.pdf" target="_blank">
